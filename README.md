@@ -9,16 +9,16 @@
 ---------------------------------------
   
 <div align="center">
-  <a href="https://github.com/Plasmonix/Netflixer">
-    <img src="https://raw.githubusercontent.com/Plasmonix/Netflixer/main/demo.png">
+  <a href="https://github.com/Makavael/Netflixer">
+    <img src="https://raw.githubusercontent.com/Makavael/Netflixer/main/demo.png">
   </a>
   
 
   <p align="center">
     <br />
-    <a href="https://github.com/Plasmonix/Netflixer/issues">Report Bug</a>
+    <a href="https://github.com/Makavael/Netflixer/issues">Report Bug</a>
     |
-    <a href="https://github.com/Plasmonix/Netflixer/issues">Request Feature</a>
+    <a href="https://github.com/Makavael/Netflixer/issues">Request Feature</a>
   </p>
 </div>
 
